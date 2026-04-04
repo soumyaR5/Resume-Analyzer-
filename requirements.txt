@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 scikit-learn
@@ -5,4 +6,13 @@ pypdf
 python-multipart
 sentence-transformers
 faiss-cpu
+=======
+fastapi
+uvicorn
+scikit-learn
+pypdf
+python-multipart
+sentence-transformers
+faiss-cpu
+>>>>>>> 1443bfb (Initial commit)
 requests

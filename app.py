@@ -1,3 +1,4 @@
+
 import streamlit as st
 import requests
 
@@ -84,4 +85,3 @@ if st.button("Ask"):
 # DEBUG (optional)
 # -------------------------------
 if 'result' in locals():
-    st.write(result)   # Uncomment if you want to debug response

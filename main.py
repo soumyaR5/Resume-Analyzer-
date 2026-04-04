@@ -1,3 +1,4 @@
+
 from fastapi import FastAPI, File, UploadFile, Form
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
@@ -217,5 +218,3 @@ async def ask_question(
     context = " ".join(relevant_chunks)
 
     answer = generate_answer(context, question)
-
-    return {"answer": answer}
