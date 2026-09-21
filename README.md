@@ -59,11 +59,6 @@ python app.py
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots of your UI here for better presentation)*
-
----
 
 ## 🎯 Use Case
 
